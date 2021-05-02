@@ -6,5 +6,5 @@
 # My Portfolio Website
   to visit my portfolio website hosted live on Heroku click on the link that follows
   
-  [Animesh Kumar Singh](https://animesh-kumar-singh.herokuapp.com)
+  [https://animesh-kumar-singh.herokuapp.com](https://animesh-kumar-singh.herokuapp.com)
 
